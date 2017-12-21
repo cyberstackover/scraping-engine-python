@@ -1,0 +1,8 @@
+*.pyc
+*.js
+*~
+*.DS_Store
+*.sqlite
+*.db
+venv
+config/config.py
